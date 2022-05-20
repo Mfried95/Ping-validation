@@ -45,7 +45,7 @@ form{
 }
 
 input{
-    margin-bottom: 1em;
+    margin: 1em;
     border-radius: 2rem;
     padding: 1em;
     border: solid 2px hsl(223, 100%, 88%);
